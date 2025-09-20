@@ -1,0 +1,9 @@
+pandas
+numpy
+pyspark
+sqlalchemy
+psycopg2
+boto3
+jupyter
+plotly
+python-dotenv
